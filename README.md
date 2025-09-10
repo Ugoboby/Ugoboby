@@ -18,8 +18,16 @@ From building predictive models that anticipate player behaviour to designing au
 I love turning data into powerful game-changing tools.
 
 I work in the Gaming Industry, and I have  had the chance to work on various major titles. From simulation video games to FPS, I covered a wide range of genres.
-Currently I am working @QuanticDream, helping the team use insights to help in the development of titles.
+Currently, I am working @QuanticDream, helping the team use insights to help in the development of titles.
 
 
-I enjoy football ⚽, chess ♟️, and python 🐍 programing.
+I enjoy football ⚽, chess ♟️, and Python 🐍 programming.
 
+---
+
+**🔍 What I’m working on**
+
+- 🧠 Forecasting Models – Predicting player activity and performance  
+- 🕵️ Data Insights – Uncovering hidden patterns to inform strategy  
+- 🛠️ ML Pipelines – Automating scalable and reproducible workflows  
+- 🧬 Experimentation – A/B testing and causal inference to validate impact  
