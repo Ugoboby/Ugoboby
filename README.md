@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 # Welcome to my GitHub page
 
 Hi there! I'm **Hugo**, a curious and creative French 🇫🇷 Data Scientist.  
-My work blends **machine learning**, **forecasting**, and **data-driven storytelling** to bring actionable insights to the games we build.
+My work blends **machine learning**, **forecasting**, and **data-driven storytelling** to bring actionable insights to games and gamers.
 
 From building predictive models that anticipate player behaviour to designing automated systems that empower decision-making,  
 I love turning data into powerful game-changing tools.
